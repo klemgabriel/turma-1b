@@ -2,8 +2,9 @@ body{
    background: #CCCCCC
 }
 
-#banner{
-
+#imagemjpg{
+    height: 536px;
+    width: 100%;
 }
 
 h1{ 
@@ -21,4 +22,3 @@ p {
 em strong{
    color: red;
 }
-

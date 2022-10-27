@@ -1,6 +1,4 @@
-body{
-   
-}
+body{}
 
 #imagemjpg{
     height: 200px;
@@ -32,6 +30,10 @@ em strong{
    background-color: red;
    color: greenyellow;
 }
+<h2>{
+   text-align: center;
+}
+   
 
 .itens{
    font-style: italic;

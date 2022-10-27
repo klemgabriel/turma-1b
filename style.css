@@ -3,6 +3,7 @@ body{}
 #imagemjpg{
     height: 200px;
     width: 100%;
+    margin: color red;
 }
 
 .principal{

@@ -1,5 +1,5 @@
 body{
-   background: #CCCCCC
+   background: #cccccc
 }
 
 #imagemjpg{
@@ -7,6 +7,10 @@ body{
     width: 100%;
 }
 
+.principal{
+   background-color: black
+   color ffffff;
+}
 h1{ 
    text-align: center
 }

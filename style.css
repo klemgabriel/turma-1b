@@ -1,5 +1,5 @@
 body{
-   background: #cccccc
+   
 }
 
 #imagemjpg{
@@ -9,8 +9,9 @@ body{
 
 .principal{
    background-color: black
-   color ffffff;
+   color white;
 }
+
 h1{ 
    text-align: center
 }
@@ -25,6 +26,11 @@ p {
 
 em strong{
    color: red;
+}
+
+.beneficios{
+   background-color: red;
+   color: greenyellow;
 }
 
 .itens{

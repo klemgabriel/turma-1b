@@ -30,11 +30,11 @@ em strong{
    background-color: red;
    color: greenyellow;
 }
-<h2>{
+
+h2{
    text-align: center;
 }
    
-
 .itens{
    font-style: italic;
 }

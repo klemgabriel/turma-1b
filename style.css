@@ -35,8 +35,13 @@ em strong{
 
 .beneficios{
    color: green;
+   display: inline-block;
 }
 
 .itens{
    font-style: italic;
+}
+
+.img{
+  display: inline-block;
 }

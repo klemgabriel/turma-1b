@@ -36,6 +36,7 @@ em strong{
 .beneficios{
    color: green;
    display: inline-block;
+   width: 50%;
 }
 
 .itens{
@@ -44,4 +45,5 @@ em strong{
 
 .img{
   display: inline-block;
+  width: 25%;
 }

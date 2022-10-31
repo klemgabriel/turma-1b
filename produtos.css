@@ -1,0 +1,116 @@
+header {
+	background: rgb(0, 0, 0);
+	padding: 20px 0;
+}
+
+.caixa {
+	position: relative;
+	width: 1100px;
+	margin: 0 auto;
+}
+
+#img-cbc {
+    width: 40%;
+    height: auto;
+}
+
+nav {
+	position: absolute;
+	top: 70px;
+	right: 0;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a{
+	text-transform: uppercase;
+	color: rgb(255, 0, 0);
+	font-weight: bold;	
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover{
+	color: rgb(0, 255, 0);
+	text-decoration: underline;
+}
+
+.produtos{
+	width: 1100px;
+	margin: 0 auto;
+}
+
+.produtos li{
+	display: inline-block;
+	text-align:center;
+	width: 30%;
+	vertical-align: top;
+	padding: 50px 0;
+	margin: 3% 1.5% 0;
+	padding: 30px 20px;
+	box-sizing: border-box;
+	border: 2px solid rgb(0, 255, 0);
+	border-radius: 20px;
+}
+
+.produtos li:hover{
+	border-color: rgb(255, 0, 0);
+}
+
+.produtos li:active{
+	border-color: rgb(0, 0, 255);
+}
+
+.produtos li:hover h2{
+	font-size: 34px;
+}
+
+.produtos h2{
+	font-size: 30px;
+	font-weight: bold ;
+}
+
+.produtos-descricao{
+	font-size: 18px;
+}
+
+.img-movel{
+	width: 130px;
+	height: auto;
+	padding: 50px;
+}
+
+.portas{
+	width: 80px;
+    height: 150px;
+    padding: 20px;
+}
+
+.armario{
+	
+	width: 80px;
+    height: 150px;
+    padding: 20px;
+}
+
+footer{
+	text-align: center;
+	background-color: black;
+	padding: 40px 0;
+
+}
+
+.img-rdp{
+	height: 130px;
+	width: auto;
+}
+
+.copyright{
+	color: white;
+	font-size: 13px;
+	margin: 10px 0 0;
+
+}

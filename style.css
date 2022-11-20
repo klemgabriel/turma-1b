@@ -5,7 +5,7 @@ header {
 
 .caixa {
 	position: relative;
-	width: 1100px;
+	width: 94%;
 	margin: 0 auto;
 }
 
@@ -13,7 +13,50 @@ header {
     width: 40%;
     height: auto;
 }
+.body-home{
+	background-color: black;
+ }
+ .titulos-centralizados{ 
+	font-size: 2em;
+	text-align: center
+ }
+ 
+.principal{
+	color: white;
+ }
+.batata{
+	font-size: 20px;
+	text-align: center;
+	
+ }
+ em strong{
+	color: red;
+ }
+.beneficios{
+	color: green;
+	width: 100%;
+	margin: 40px 0;
+ }
+ .cx-img{
+	height: 400px;
 
+ }
+.img{
+	display: inline-block;
+	 width: 40%;
+	 height: 320px;
+	 padding: 0 3%;
+	 margin-left: 2%;
+	 transition: all .5s;
+  }
+
+.img:hover{
+	width: 44%;
+	height: 360px;
+	padding: 0 2%;
+	transition: all .5s;
+	
+}
 nav {
 	position: absolute;
 	top: 70px;
@@ -37,9 +80,11 @@ nav a:hover{
 	color: rgb(0, 255, 0);
 	text-decoration: underline;
 }
-
+.div-produtos{
+	height: 380px;
+}
 .produtos{
-	width: 1100px;
+	width: 98%;
 	margin: 0 auto;
 }
 
@@ -99,13 +144,15 @@ nav a:hover{
 footer{
 	text-align: center;
 	background-color: black;
-	padding: 40px 0;
-
+	padding: 15px 0;
+	margin: 40px 0 0 0;
+	
 }
 
 .img-rdp{
 	height: 130px;
 	width: auto;
+	
 }
 
 .copyright{

@@ -31,6 +31,10 @@ header {
 	
  }
 
+ .batata strong{
+	color: red;
+ }
+
  .batata em strong{
 	color: red;
 	font-style: italic;

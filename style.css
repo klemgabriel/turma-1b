@@ -24,13 +24,16 @@ header {
 .principal{
 	color: white;
  }
+
 .batata{
 	font-size: 20px;
 	text-align: center;
 	
  }
- em strong{
+
+ .batata strong{
 	color: red;
+	font-style: italic;
  }
 .beneficios{
 	color: green;

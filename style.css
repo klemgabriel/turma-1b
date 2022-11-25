@@ -35,15 +35,17 @@ header {
 	color: red;
 	font-style: italic;
  }
+
 .beneficios{
 	color: green;
 	width: 100%;
 	margin: 40px 0;
  }
+
  .cx-img{
 	height: 400px;
-
  }
+
 .img{
 	display: inline-block;
 	 width: 40%;
@@ -58,8 +60,8 @@ header {
 	height: 360px;
 	padding: 0 2%;
 	transition: all .5s;
-	
 }
+
 nav {
 	position: absolute;
 	top: 70px;
@@ -83,9 +85,11 @@ nav a:hover{
 	color: rgb(0, 255, 0);
 	text-decoration: underline;
 }
+
 .div-produtos{
 	height: 380px;
 }
+
 .produtos{
 	width: 98%;
 	margin: 0 auto;

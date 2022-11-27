@@ -1,4 +1,6 @@
-
+body{
+   background-color: black;
+}
 
 .caixa {
    position: relative;
@@ -35,7 +37,10 @@ nav a:hover{
    text-decoration: underline;
 }
 
-
+.titulo-principal{
+  color: white;
+  padding-left: 20px;
+}
 
 .imgprincipal{
   padding: 0 auto;
@@ -46,19 +51,39 @@ nav a:hover{
     width: 70%;
 }
 
+.principal{
+   color: white;
+}
 
+.titulos-centralizados{ 
+   text-align: center
+}
 
+p {
+   text-align: center
+}
 
+#missao{
+   font-size: 20px
+}
 
+em strong{
+   color: red;
+}
 
-
-
-
-
-
-
+.beneficios{
+   color: green;
+   display: inline-block;
+   width: 50%;
+}
 
 .itens{
    font-style: italic;
 }
 
+.img{
+  display: inline-block;
+   width: 20%;
+   height: 100px;
+   padding: 15px;
+}

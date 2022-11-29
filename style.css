@@ -22,8 +22,8 @@ header {
  }
  .titulos-principal{ 
 	font-size: 2em;
-	text-align: center
-	margin: 2em 0
+	text-align: center;
+	margin: 2em auto 0;
  }
  
 .principal{

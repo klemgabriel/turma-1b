@@ -57,6 +57,11 @@ header {
 	text-align: center;
  }
 
+ .mapa-conteudo{
+	width: 940px;
+	margin: 0 auto;
+ }
+
 .beneficios{
 	color: green;
 	width: 100%;

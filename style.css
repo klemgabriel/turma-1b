@@ -17,11 +17,9 @@ header {
     width: 40%;
     height: auto;
 }
-
 .body-home{
 	background-color: black;
  }
-
  .titulos-principal{ 
 	font-size: 2em;
 	text-align: center;
@@ -65,17 +63,9 @@ header {
  }
 
 .beneficios{
-	color: rgb(0, 128, 0);
+	color: green;
 	width: 100%;
 	margin: 40px 0;
- }
-
- .titulo-beneficio{
-	color: #000000;
-	font-size: 2em;
-	text-align: center;
-	margin: 20px auto;
-	text-shadow: 2px 2px rgb(0, 128, 0);
  }
 
  .itens{

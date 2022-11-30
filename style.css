@@ -77,11 +77,11 @@ header {
  }
 
  .itens:before{
-	content: "✭";
+	content: "✭ ";
  }
 
  .itens:after{
-	content: "✭";
+	content: " ✭";
  }
 
  .cx-img{

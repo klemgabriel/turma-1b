@@ -107,7 +107,7 @@ header {
 	height: 360px;
 	padding: 0 2%;
 	transition: all .5s;
-	box-shadow: 10px 10px 5px rgb(0, 128, 0), -10px 10px 5px rgb(0 128 0);
+	box-shadow: 10px 10px 30px rgb(0, 128, 0), -10px 10px 30px rgb(0 128 0);
 }
 
 nav {

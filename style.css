@@ -76,6 +76,14 @@ header {
  	font-weight: bold;
  }
 
+ .itens:before{
+	content: "✭";
+ }
+
+ .itens:after{
+	content: "✭";
+ }
+
  .cx-img{
 	height: 400px;
  }

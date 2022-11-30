@@ -63,9 +63,17 @@ header {
  }
 
 .beneficios{
-	color: green;
+	color: rgb(0, 128, 0);
 	width: 100%;
 	margin: 40px 0;
+ }
+
+ .titulo-beneficios{
+	color: #000000;
+	font-size: 2em;
+	text-align: center;
+	margin: 20px auto;
+	text-shadow: 2px 2px rgb(0, 128, 0);
  }
 
  .itens{
